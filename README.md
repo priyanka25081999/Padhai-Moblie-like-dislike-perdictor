@@ -14,4 +14,4 @@ Perceptron_with_MinMax_normalization.ipynb with 81.2%
 mp_preceptron_v1.ipynb with 69.6%
 
 Different versions of perceptron with different data normalization we can see the effects of it 
-on accuary.
+on accuracy.
